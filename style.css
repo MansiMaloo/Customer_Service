@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand:400,700);
+
+html,body{
+	height:100%;
+	background-color:#2f4f4f;
+	font-family: 'Quicksand', sans-serif;
+	color:#fff;
+}
+input[type="submit"]{
+	width:100px;
+	background-color:#000;
+	border:0px;
+	color:#fff;
+	border-radius:3px;
+	box-shadow:2px 2px 20px #888888;
+	font-family: 'Quicksand', sans-serif;
+	height:30px;
+}
+input[placeholder]{
+	font-family: 'Quicksand', sans-serif;
+}
+input[type="text"]{
+	padding-left:5px;
+	border-radius:3px;
+	border:0px;
+	height:25px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+input[type="password"]{
+	padding-left:5px;
+	border-radius:3px;
+	border:0px;
+	height:25px;
+	font-family: 'Quicksand', sans-serif;
+}
+ul,li{
+text-align:center;
+}
+li{
+list-style-type:none;
+}
